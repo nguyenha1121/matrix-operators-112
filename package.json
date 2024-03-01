@@ -1,12 +1,22 @@
 {
   "name": "matrix-operations-112",
   "version": "1.0.0",
-  "description": "Simple matrix 4 operators",
+  "description": "Simple gl matrix 4 operators",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["matrix", "operators"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenha1121/matrix-operators-112.git"
+  },
+  "keywords": [
+    "matrix",
+    "operators"
+  ],
   "author": "nguyenha1121",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gl-matrix": "^3.4.3"
+  }
 }
