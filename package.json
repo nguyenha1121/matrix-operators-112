@@ -1,6 +1,6 @@
 {
   "name": "matrix-operations-112",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple gl matrix 4 operators",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nguyenha1121/matrix-operators-112.git"
+    "url": "git://github.com/nguyenha1121/matrix-operators-112.git"
   },
   "keywords": [
     "matrix",
