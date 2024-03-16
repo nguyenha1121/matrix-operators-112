@@ -1,6 +1,6 @@
 {
   "name": "matrix-operations-112",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Simple gl matrix 4 operators",
   "homepage": "https://github.com/nguyenha1121/matrix-operators-112",
   "main": "index.js",
